@@ -10,6 +10,11 @@ In addition to being a student at National Institute of Business Management, I a
 
 ### Some of my personal interests
 🚀 - I'm interested in rockets, space flight and space in general.
+
 🌎 - I'm fairly active in reddit where I get to learn new stuff.
+
 😍 - A big fan of spaceX.
+
 😕 - Used to write to roar.lk before it was discontinued. 
+
+
