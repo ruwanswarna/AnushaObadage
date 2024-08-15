@@ -50,7 +50,7 @@ Reach Me at **ars.obadage@gmail.com**
     <a href="#"><img alt="Eclipse" src="https://custom-icon-badges.herokuapp.com/badge/Eclipse-2C2255.svg?logo=eclipse&logoColor=white"></a>
 </p>
 <br/><br/>
-### Useful links
+<h3> Useful links </h3>
 
 <a href="https://www.nibm.lk/programmes/higher-national-diploma-in-software-engineering-full-time/">Higher NationalDiploma in Software Engineering</a>
 
